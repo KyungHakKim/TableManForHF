@@ -1,0 +1,12 @@
+frmLogin = 0, 0, 0, 0, C, 156, 156, 1381, 715, C
+frmOraMain = 78, 78, 1303, 637, Z, 52, 52, 1277, 611, C
+frmHistory = 0, 0, 0, 0, C, 208, 208, 1433, 767, C
+frmSrc = 0, 0, 0, 0, C, 234, 234, 1459, 793, C
+Module1 = 0, 0, 0, 0, C
+basIP = 0, 0, 0, 0, C
+frmDataView = 0, 0, 0, 0, C, 260, 260, 1485, 819, C
+frmSock = 0, 0, 0, 0, C, 0, 0, 1225, 559, C
+frmJSP = 0, 0, 0, 0, C, 26, 26, 1251, 585, C
+frmColumnSrch = 0, 0, 0, 0, C, 52, 52, 1277, 611, C
+basCommon = 0, 0, 0, 0, C
+basCONST = 0, 0, 0, 0, C

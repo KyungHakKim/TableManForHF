@@ -1,0 +1,10 @@
+frmDong = 0, 0, 0, 0, C, 52, 52, 1150, 474, C
+frmMDI = 0, 0, 0, 0, C, 104, 104, 1202, 526, C
+frmMetaConvert = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmRule = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSrcConvert = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmVarList = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+basCommon = 130, 130, 1228, 552, C
+basCONST = 0, 0, 0, 0, C
+basMeta = 0, 0, 0, 0, C
+Module1 = 0, 0, 0, 0, C
